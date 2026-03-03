@@ -11,8 +11,7 @@ function readTasks() {
 }
 
 function writeTasks(tasks) {
-  fs.writeFileSync(FILE, JSON.stringify(tasks, null, 2));
-}
+  fs.writeFileSync(FILE, JSON.stringify(tasks, commcommcomm
 
 module.exports = {
   readTasks,
