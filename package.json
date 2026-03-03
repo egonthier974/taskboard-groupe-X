@@ -1,0 +1,9 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "description": "Mini CLI Task Manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
