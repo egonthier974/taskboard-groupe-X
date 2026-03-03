@@ -36,5 +36,5 @@ switch (command) {
     listTasks();
     break;
   default:
-    console.log("Commandes disponibles : add, list");
+    console.log("Commandes disponibles pour EMMA : add, list");
 }
